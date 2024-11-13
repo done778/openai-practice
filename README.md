@@ -1,4 +1,2 @@
-# hello-world-
+# openai 실습 코드 제공
 welcome!
-
-start : 2019-11-10
